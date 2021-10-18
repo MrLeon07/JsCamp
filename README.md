@@ -1,2 +1,2 @@
-# JsCamp
-JavaScript camp repos
+# advancedJavaScript
+Starter kit for my JS Courses
